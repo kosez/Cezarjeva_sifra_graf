@@ -30,3 +30,4 @@ C:\Users\nix\Downloads\CezarjevaSifraGrafVme-main\CezarjevaSifraGrafVme-main\cez
 C:\Users\nix\Downloads\CezarjevaSifraGrafVme-main\CezarjevaSifraGrafVme-main\cezarjeva_sifra\obj\Debug\net8.0-windows\cezarjeva_sifra.pdb
 C:\Users\nix\Downloads\CezarjevaSifraGrafVme-main\CezarjevaSifraGrafVme-main\cezarjeva_sifra\obj\Debug\net8.0-windows\cezarjeva_sifra.genruntimeconfig.cache
 C:\Users\nix\Downloads\CezarjevaSifraGrafVme-main\CezarjevaSifraGrafVme-main\cezarjeva_sifra\obj\Debug\net8.0-windows\ref\cezarjeva_sifra.dll
+C:\vss\program1\cezarjeva_sifra\cezarjeva_sifra\obj\Debug\net8.0-windows\cezarjeva_sifra.sourcelink.json

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\vss\\program1\\cezarjeva_sifra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\cezarjeva_sifra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\cezarjeva_sifra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|solutionrelative:cezarjeva_sifra\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE3EF321-35EB-8E88-9951-A02C4103E4A7}|cezarjeva_sifra\\cezarjeva_sifra.csproj|c:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\tabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -44,9 +44,22 @@
               "RelativeDocumentMoniker": "cezarjeva_sifra\\Tabela.cs",
               "ToolTip": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Tabela.cs",
               "RelativeToolTip": "cezarjeva_sifra\\Tabela.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T13:36:43.73Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Desifriranje.cs",
+              "DocumentMoniker": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Desifriranje.cs",
+              "RelativeDocumentMoniker": "cezarjeva_sifra\\Desifriranje.cs",
+              "ToolTip": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Desifriranje.cs",
+              "RelativeToolTip": "cezarjeva_sifra\\Desifriranje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:37:10.887Z",
               "IsPinned": true
             },
             {
@@ -55,33 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Form1.cs",
               "RelativeDocumentMoniker": "cezarjeva_sifra\\Form1.cs",
               "ToolTip": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Form1.cs",
               "RelativeToolTip": "cezarjeva_sifra\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T10:51:01.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sifriranje.cs",
               "DocumentMoniker": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Sifriranje.cs",
               "RelativeDocumentMoniker": "cezarjeva_sifra\\Sifriranje.cs",
               "ToolTip": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Sifriranje.cs",
               "RelativeToolTip": "cezarjeva_sifra\\Sifriranje.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T13:37:02.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "cezarjeva_sifra.csproj",
               "DocumentMoniker": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\cezarjeva_sifra.csproj",
               "RelativeDocumentMoniker": "cezarjeva_sifra\\cezarjeva_sifra.csproj",
@@ -90,19 +103,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-11T16:07:58.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Desifriranje.cs",
-              "DocumentMoniker": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Desifriranje.cs",
-              "RelativeDocumentMoniker": "cezarjeva_sifra\\Desifriranje.cs",
-              "ToolTip": "C:\\vss\\program1\\cezarjeva_sifra\\cezarjeva_sifra\\Desifriranje.cs",
-              "RelativeToolTip": "cezarjeva_sifra\\Desifriranje.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:37:10.887Z",
               "EditorCaption": ""
             },
             {

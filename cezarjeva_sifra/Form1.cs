@@ -21,14 +21,12 @@ namespace cezarjeva_sifra
         {
             numericUpDown1.Maximum = 25;
             numericUpDown1.Minimum = 1;
-            sif.shift = (int)numericUpDown1.Value;
         }
 
         private void numericUpDown2_ValueChanged(object sender, EventArgs e)
         {
             numericUpDown2.Maximum = 25;
             numericUpDown2.Minimum = 1;
-          des.shift = (int)numericUpDown2.Value;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)

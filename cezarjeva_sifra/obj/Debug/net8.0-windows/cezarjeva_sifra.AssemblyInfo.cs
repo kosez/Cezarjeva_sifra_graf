@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cezarjeva_sifra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55e8f124771b4328c8a499db2390d7580ece234b")]
 [assembly: System.Reflection.AssemblyProductAttribute("cezarjeva_sifra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cezarjeva_sifra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
